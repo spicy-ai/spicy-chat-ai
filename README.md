@@ -1,4 +1,4 @@
-[Official Website](https://spicyai.site/) · [Live Demo on Hugging Face](https://huggingface.co/spaces/Spicy-Chat-AI/spicy-chat-ai)
+[Official Website](https://spicyai.site/) · [Live Demo on Hugging Face](https://huggingface.co/spaces/Spicy-Chat-AI/Spicy-Chat-AI)
 
 ---
 
